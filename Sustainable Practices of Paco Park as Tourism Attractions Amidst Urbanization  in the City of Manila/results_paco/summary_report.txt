@@ -1,0 +1,25 @@
+Paco Park Sustainability Analysis - Summary
+Total respondents: 216
+Cronbach's alpha per domain:
+  Environmental: 0.751791212695405
+  Cultural: -0.44291169272575415
+  VisitorMgmt: 0.8149415728420334
+  Community: 0.8758765216397956
+
+Domain descriptives (mean, std):
+  Environmental_mean: mean=4.115, std=0.615
+  Cultural_mean: mean=3.552, std=0.379
+  VisitorMgmt_mean: mean=4.089, std=0.696
+  Community_mean: mean=3.985, std=0.659
+
+Lowest-scoring items (priority for action):
+  Visiting Paco Park gives me a deeper appreciation of Manila’s cultural heritage._num: mean=2.287
+  The management ensures that urbanization pressures (e.g., modernization, commercialization) do not compromise the cultural heritage of Paco Park._num: mean=2.667
+  Challenges brought by urbanization (e.g., noise pollution, overcrowding) are being managed effectively inside Paco Park._num: mean=3.782
+  Social media advocacy by community members effectively raises awareness about preserving Paco Park._num: mean=3.838
+  Local businesses collaborate with Paco Park management to promote sustainable tourism._num: mean=3.866
+  Local communities actively participate in programs related to Paco Park's sustainability._num: mean=3.903
+  Restoration efforts are noticeable (e.g., repairs of old structures, repainting or reinforcement of heritage features)._num: mean=3.912
+  The paths or walkways including access for wheelchairs/strollers are evident._num: mean=3.944
+  Residents around Paco Park benefit economically (e.g., jobs, livelihood, tourism-related businesses) from its tourism activities._num: mean=3.949
+  Visitor pathways are well-marked to protect sensitive areas (e.g., gardens, historic structures)._num: mean=4.009

@@ -1,0 +1,23 @@
+Domain: Community_mean
+Normality Shapiro p-values per group:
+  Nearby Resident: 0.05990089327835156
+  Tourist/Non-Local Tourist: 0.26295684325036434
+  Local Visitor: 0.009183179166191918
+  Park Personnel/Staff: 0.0047996647238231285
+Levene p: 0.0900679264423911
+Result:
+{'test': 'Kruskal', 'kw_stat': 4.013584011048288, 'kw_p': 0.2600010332575199, 'dunn':   Contrast                     A                          B  Paired  \
+0    group         Local Visitor            Nearby Resident   False   
+1    group         Local Visitor       Park Personnel/Staff   False   
+2    group         Local Visitor  Tourist/Non-Local Tourist   False   
+3    group       Nearby Resident       Park Personnel/Staff   False   
+4    group       Nearby Resident  Tourist/Non-Local Tourist   False   
+5    group  Park Personnel/Staff  Tourist/Non-Local Tourist   False   
+
+   Parametric   U-val alternative     p-unc    p-corr p-adjust    hedges  
+0       False  1874.5   two-sided  0.156237  0.937419     bonf -0.283370  
+1       False  1239.0   two-sided  0.901007  1.000000     bonf -0.041264  
+2       False  2583.0   two-sided  0.365794  1.000000     bonf  0.145705  
+3       False   553.0   two-sided  0.516718  1.000000     bonf  0.234952  
+4       False  1200.0   two-sided  0.030201  0.181208     bonf  0.485822  
+5       False   578.0   two-sided  0.635649  1.000000     bonf  0.186738  }
