@@ -1,0 +1,85 @@
+================================================================================
+DATA VERIFICATION REPORT
+================================================================================
+Generated: 2025-12-02 21:24:29
+
+SUMMARY STATISTICS
+----------------------------------------
+CHALLENGES:
+  • Records: 15
+  • Columns: 18
+  • Sample columns: Climate_Factor, Impact_Finding, Key_Data_Result, Year, Source_(APA_Format)_and_Link
+    ... and 13 more
+  • Avg missing in numeric cols: 80.0%
+
+OPPORTUNITIES:
+  • Records: 22
+  • Columns: 13
+  • Sample columns: Technology_Innovation, Description, Implementation_Status, Year, Source_(APA_Format)_and_Link
+    ... and 8 more
+
+GREEN_ACCOUNTING:
+  • Records: 30
+  • Columns: 23
+  • Sample columns: Environmental_Cost_Factor, Description_Data, Current_Status, Year, Source_APA_Format_and_Link
+    ... and 18 more
+  • Avg missing in numeric cols: 90.0%
+
+REFERENCES:
+  • Records: 17
+  • Columns: 3
+  • Sample columns: Reference, URL, Category
+
+METADATA:
+  • Records: 19
+  • Columns: 3
+  • Sample columns: Type, Row_Content, Raw_Data
+
+DATA QUALITY CHECKS
+----------------------------------------
+
+CHALLENGES Quality Checks:
+  ✓ No duplicate rows in hashable columns
+  • Data types: {dtype('O'): 15, dtype('float64'): 3}
+  • Valid years in Year: 0/15
+
+OPPORTUNITIES Quality Checks:
+  ✓ No duplicate rows in hashable columns
+  • Data types: {dtype('O'): 13}
+
+GREEN_ACCOUNTING Quality Checks:
+  ✓ No duplicate rows in hashable columns
+  • Data types: {dtype('O'): 22, dtype('float64'): 1}
+
+REFERENCES Quality Checks:
+  ✓ No duplicate rows in hashable columns
+  • Data types: {dtype('O'): 3}
+
+METADATA Quality Checks:
+  ✓ No duplicate rows in hashable columns
+  • Data types: {dtype('O'): 3}
+
+================================================================================
+ANALYSIS RECOMMENDATIONS
+================================================================================
+
+1. DATA CLEANING COMPLETED:
+   ✓ Extracted numerical values from text
+   ✓ Standardized column names
+   ✓ Categorized data by research sections
+
+2. RECOMMENDED NEXT STEPS:
+   • Analyze climate impact trends over years
+   • Calculate average pest yield losses
+   • Compare cost increases across regions
+   • Assess technology adoption rates
+   • Evaluate government program effectiveness
+   • Analyze training program coverage
+   • Track emissions reduction progress
+   • Compare green accounting implementation rates
+   • Assess sustainability reporting adoption
+
+3. DATA LIMITATIONS NOTED:
+   • Data is aggregated/secondary (not farm-level)
+   • Some numerical values extracted from text
+   • Time periods vary across data points

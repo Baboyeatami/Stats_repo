@@ -1,0 +1,8 @@
+Hypothesis,Description,Correlation,P_value,Significant,Strength,Direction
+H1,Climate change impacts,0.19096918715078157,0.019237016277698468,True,Weak,Positive
+H2,Pest infestations and disease pressure,-0.7986386595764013,1.8714471330694496e-34,True,Strong,Negative
+H3,Increasing input costs,-0.3059042651074133,0.00014073289135131567,True,Moderate,Negative
+H4,Technology adoption,0.30673541755468936,0.0001346754653118237,True,Moderate,Positive
+H5,Government support,0.3576077679009318,7.035265468686221e-06,True,Moderate,Positive
+H6,Training programs,0.1879776285251304,0.02124725755369512,True,Weak,Positive
+H7,Green accounting practices,0.27322397899229384,0.0007172299683406426,True,Weak,Positive
