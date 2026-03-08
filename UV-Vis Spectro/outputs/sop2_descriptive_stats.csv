@@ -1,0 +1,6 @@
+pH,n,absorbance_mean,absorbance_sd,L_mean,L_sd,a_mean,a_sd,b_mean,b_sd,Descriptive_Color_Trend
+5.5,5,0.39,0.084,53.65,7.63,-5.042,4.443,-25.4,5.285,"moderately dark, greenish, bluish"
+6.5,5,0.417,0.029,53.57,2.631,-11.984,2.412,-22.666,1.551,"moderately dark, greenish, bluish"
+7.0,5,0.515,0.053,47.626,2.789,5.542,4.563,-22.284,0.832,"moderately dark, reddish, bluish"
+7.5,5,0.419,0.036,53.614,2.93,-8.086,3.645,-22.342,4.799,"moderately dark, greenish, bluish"
+8.5,5,0.532,0.037,55.934,2.363,-13.22,1.977,-9.018,2.558,"light, greenish, bluish"

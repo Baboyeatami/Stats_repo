@@ -1,0 +1,7 @@
+Metric,Comparison,t_statistic,p_value,Interpretation
+Peak Load (N),Coated Abaca vs Uncoated Abaca,-8.7877,0.000104,Significant difference
+Ultimate Tensile Strength (MPa),Coated Abaca vs Uncoated Abaca,-0.3387,0.744295,Not significant
+Peak Load (N),Coated Abaca vs Commercial Catgut,14.7044,2.7e-05,Significant difference
+Ultimate Tensile Strength (MPa),Coated Abaca vs Commercial Catgut,0.0277,0.979163,Not significant
+Peak Load (N),Uncoated Abaca vs Commercial Catgut,18.1028,3.3e-05,Significant difference
+Ultimate Tensile Strength (MPa),Uncoated Abaca vs Commercial Catgut,0.437,0.683886,Not significant

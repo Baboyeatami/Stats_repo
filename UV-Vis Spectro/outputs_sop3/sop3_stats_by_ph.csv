@@ -1,0 +1,6 @@
+pH,Condition,n,mean_seconds,sd_seconds,mean_ms,sd_ms,min_ms,max_ms
+5.5,Non-infection,5,4.566,0.82,4566.0,819.744,3280.0,5280.0
+6.5,Non-infection,5,6.12,0.952,6120.0,951.709,4850.0,7100.0
+7.0,Non-infection,5,4.28,0.451,4280.0,451.276,3520.0,4650.0
+7.5,Infection-indicative,5,3.458,0.283,3458.0,282.79,3170.0,3810.0
+8.5,Infection-indicative,5,1.502,0.228,1502.0,228.298,1150.0,1710.0

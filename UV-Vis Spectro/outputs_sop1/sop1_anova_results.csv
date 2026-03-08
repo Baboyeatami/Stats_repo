@@ -1,0 +1,3 @@
+Metric,F_statistic,p_value,Interpretation
+Peak Load (N),192.0673,0.0,Significant difference
+Ultimate Tensile Strength (MPa),0.1192,0.888691,Not significant

@@ -1,0 +1,4 @@
+Material,n,mean_peak_load_N,sd_peak_load_N,min_peak_load_N,max_peak_load_N,mean_UTS_MPa,sd_UTS_MPa,min_UTS_MPa,max_UTS_MPa,mean_diameter_mm,sd_diameter_mm,mean_area_mm2,sd_area_mm2
+Coated Abaca,5,584.0,45.056,530,650,345.119,106.714,263.6,530.516,1.5,0.187,1.789,0.423
+Uncoated Abaca,5,956.0,83.247,830,1040,372.404,145.108,223.84,577.202,1.88,0.303,2.834,0.908
+Commercial Catgut,5,270.0,15.811,250,290,343.775,20.132,318.31,369.239,1.0,0.0,0.785,0.0
