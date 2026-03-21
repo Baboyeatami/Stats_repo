@@ -1,0 +1,4 @@
+comparison,x,y,n,pearson_r,p_value,ci95_low,ci95_high,effect_size,significant_at_0_05
+Parental Attitudes and Beliefs vs Vaccine Hesitancy,pab_score,vh_score,150,0.46794519846834265,1.5609821742940597e-09,0.33262869978543674,0.5843818213110479,moderate,True
+Health System Accessibility vs Vaccine Hesitancy,hsa_score,vh_score,150,0.4763589703328825,7.202336882562541e-10,0.34222347388716456,0.5914667339271066,moderate,True
+Intervention-Related Strategy vs Vaccine Hesitancy,irs_score,vh_score,150,0.358781673162963,6.530925591355055e-06,0.21063120946738853,0.4908215035698783,moderate,True

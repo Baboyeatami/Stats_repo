@@ -1,0 +1,5 @@
+metric,value
+Rows in raw CSV,999
+Valid respondent rows after removing empty rows,150
+Minimum sample size required by manuscript,138
+Rows exceeding minimum sample size,12

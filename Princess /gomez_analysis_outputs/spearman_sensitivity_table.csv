@@ -1,0 +1,4 @@
+comparison,spearman_rho,p_value,significant_at_0_05
+Parental Attitudes and Beliefs vs Vaccine Hesitancy,0.5241125153811084,5.859891143282235e-12,True
+Health System Accessibility vs Vaccine Hesitancy,0.4419734895232299,1.495425982346819e-08,True
+Intervention-Related Strategy vs Vaccine Hesitancy,0.23594425079816495,0.0036526884015071264,True

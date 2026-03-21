@@ -1,0 +1,5 @@
+scale,n_items,cronbach_alpha,acceptable_ge_0_70
+Parental Attitudes and Beliefs,7,0.592118937241168,False
+Health System Accessibility,7,0.7472246741199676,True
+Intervention-Related Strategy,7,0.8454161275788875,True
+Vaccine Hesitancy / Readiness,5,0.6447780651401418,False
