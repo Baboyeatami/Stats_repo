@@ -1,0 +1,6 @@
+erythromycin_mic_combination_ug_ml,n,shapiro_w,p_value,note
+15.0,3,0.7500000000000003,7.4208040309766365e-16,"Computed, but unstable because n = 3."
+7.5,3,0.7500000000000001,1.0596946680496032e-16,"Computed, but unstable because n = 3."
+3.75,3,,,Not reliable or not computable because n is too small or values are constant.
+1.875,3,0.75,0.0,"Computed, but unstable because n = 3."
+0.9375,3,0.7500000000000001,1.0596946680496032e-16,"Computed, but unstable because n = 3."

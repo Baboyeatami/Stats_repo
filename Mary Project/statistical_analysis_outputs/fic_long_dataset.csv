@@ -1,0 +1,16 @@
+set,erythromycin_conc_ug_ml,carbon_dots_mic_combination_mg_ml,erythromycin_mic_alone_ug_ml,carbon_dots_mic_alone_mg_ml,reported_fic_index,computed_fic_index,reported_interpretation,computed_interpretation,fic_difference_reported_minus_computed
+1,15.0,0.375,15.0,0.375,2.0,2.0,Indifferent,Indifferent,0.0
+1,7.5,0.375,15.0,0.375,1.5,1.5,Indifferent,Indifferent,0.0
+1,3.75,0.75,15.0,0.375,2.25,2.25,Indifferent,Indifferent,0.0
+1,1.875,0.75,15.0,0.375,2.125,2.125,Indifferent,Indifferent,0.0
+1,0.9375,0.1875,15.0,0.375,0.5625,0.5625,Indifferent,Additive,0.0
+2,15.0,0.75,15.0,0.375,3.0,3.0,Indifferent,Indifferent,0.0
+2,7.5,0.75,15.0,0.375,2.5,2.5,Indifferent,Indifferent,0.0
+2,3.75,0.75,15.0,0.375,2.25,2.25,Indifferent,Indifferent,0.0
+2,1.875,0.375,15.0,0.375,1.125,1.125,Indifferent,Indifferent,0.0
+2,0.9375,0.75,15.0,0.375,2.065,2.0625,Indifferent,Indifferent,0.0024999999999999467
+3,15.0,0.75,15.0,0.375,3.0,3.0,Indifferent,Indifferent,0.0
+3,7.5,0.375,15.0,0.375,1.5,1.5,Indifferent,Indifferent,0.0
+3,3.75,0.75,15.0,0.375,2.25,2.25,Indifferent,Indifferent,0.0
+3,1.875,0.375,15.0,0.375,1.125,1.125,Indifferent,Indifferent,0.0
+3,0.9375,0.1875,15.0,0.375,0.5625,0.5625,Additive,Additive,0.0

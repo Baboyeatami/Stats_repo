@@ -1,0 +1,4 @@
+analysis,statistic,df,p_value,effect_size,interpretation
+One-way ANOVA across erythromycin concentrations,F = 3.4301,"4, 10",0.05183084056459572,Not primary; repeated design ignored,Borderline but not significant at alpha = 0.05.
+Repeated-measures ANOVA across erythromycin concentrations,F = 3.6016,"4, 8",0.05804618229069961,partial eta squared = 0.6430,Borderline but not significant at alpha = 0.05; more appropriate than one-way ANOVA.
+Friedman repeated-measures test,chi-square = 7.2000,4,0.125689123257546,Kendall's W = 0.6000,Not significant; non-parametric support for cautious interpretation.
