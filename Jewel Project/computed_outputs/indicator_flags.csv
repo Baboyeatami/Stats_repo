@@ -1,0 +1,16 @@
+sample_id,site,presumptive_flags,notes
+A-1,A,Gram-negative non-lactose fermenter; motile; H2S-negative,TSI and SCA recorded as N/A; indole not recorded.
+A-2,A,Possible E. coli/coliform indicator based on EMB metallic sheen; citrate-positive; motile,Catalase/coagulase/oxidase not recorded in extracted result pages.
+A-3,A,Possible E. coli/coliform indicator based on EMB metallic sheen; MR-positive; motile,TSI and SCA recorded as N/A.
+B-1,B,Possible Staphylococcus aureus indicator based on catalase/coagulase positivity; EMB suggests lactose fermenter,Some media interpretations conflict with Gram-positive stain; biochemical tests for Gram-negative panel marked N/A.
+B-2,B,Possible Staphylococcus aureus indicator; citrate-positive; motile; non-lactose fermenter,MAC/EMB growth despite Gram-positive stain should be validated.
+B-3,B,Gram-negative non-lactose fermenter; catalase-positive; oxidase-negative,TSI and SCA not recorded.
+C-1,C,Mixed MAC growth; possible non-lactose fermenter; oxidase-positive; possible Shigella noted in source,MSA yellow colonies but no medium change; species call should be treated as presumptive.
+C-2,C,Possible E. coli indicator based on EMB metallic sheen; mixed MAC growth; oxidase-positive,TSI and SCA not recorded.
+C-3,C,Lactose fermenter on MAC/SSA; citrate-positive; oxidase-positive; MR-positive,"EMB did not show metallic sheen, so E. coli was marked negative in source."
+D-1,D,Non-lactose fermenter; catalase/coagulase-positive; oxidase-negative,BAP interpretation mentions Gram-positive despite Gram stain reporting Gram-negative coccobacilli.
+D-2,D,Non-fermenter profile; catalase/coagulase-positive; oxidase-negative; non-motile,SSA reports both colorless and pink colonies.
+D-3,D,Gram-positive cocci; catalase-positive; coagulase-negative; oxidase-negative,"Gram stain line includes contradictory wording, but interpretation states Gram-positive cocci."
+F-1,F,Gram-negative bacilli; MAC lactose fermenter; motile; oxidase-positive,EMB observation/interpretation conflict: dark colonies noted but interpreted as non-lactose/no sheen.
+F-2,F,Gram-variable but likely Gram-negative bacilli; non-lactose fermenter; citrate-positive; oxidase-positive,Source notes Gram-variable may be due to older culture or decolorizer inconsistency.
+F-3,F,Possible E. coli/coliform indicator based on EMB metallic sheen; MR-positive; oxidase-positive,MAC and EMB interpretations conflict: MAC non-lactose but EMB metallic sheen.

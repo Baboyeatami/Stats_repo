@@ -1,0 +1,18 @@
+test,result,count,percent
+mac_lactose,Non-lactose fermenter,8,53.33
+mac_lactose,Lactose fermenter,5,33.33
+mac_lactose,Mixed,2,13.33
+mannitol,Negative,10,66.67
+mannitol,Positive,2,13.33
+mannitol,Not applicable,2,13.33
+mannitol,Indeterminate,1,6.67
+emb_metallic_sheen,No,10,66.67
+emb_metallic_sheen,Yes,5,33.33
+emb_lactose,Non-lactose fermenter,9,60.0
+emb_lactose,Strong lactose fermenter,3,20.0
+emb_lactose,Lactose fermenter,2,13.33
+emb_lactose,Indeterminate,1,6.67
+ssa_lactose,Non-lactose fermenter,10,66.67
+ssa_lactose,Lactose fermenter,2,13.33
+ssa_lactose,Mixed,2,13.33
+ssa_lactose,Not tested,1,6.67

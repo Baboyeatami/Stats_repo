@@ -1,0 +1,4 @@
+planned_analysis,suitable_with_current_data,reason,needed_to_make_it_suitable
+ANOVA for microbial load comparison,No,"The encoded results are categorical observations, not numeric CFU or microbial-load measurements.","Add numeric colony counts, dilution factors, swabbed surface area, and computed CFU/cm^2 or comparable microbial-load values."
+Frequency counts and percentages,Yes,"The results are mostly present/absent, positive/negative, and categorical media observations.","No additional numeric data required, but missing entries should be completed where possible."
+Chi-square or Fisher exact tests,Limited,The sample size is small and Site E is missing; many expected counts may be too low.,More complete samples per site or a narrower categorical comparison.

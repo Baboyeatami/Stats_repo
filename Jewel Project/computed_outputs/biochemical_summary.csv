@@ -1,0 +1,30 @@
+test,result,count,percent
+tsi,Not recorded,5,33.33
+tsi,Not tested,4,26.67
+tsi,K/K,4,26.67
+tsi,A/A,2,13.33
+sca,Not tested,4,26.67
+sca,Positive,4,26.67
+sca,Negative,4,26.67
+sca,Not recorded,3,20.0
+sim_motility,Positive,13,86.67
+sim_motility,Not tested,1,6.67
+sim_motility,Negative,1,6.67
+mr,Negative,7,46.67
+mr,Positive,6,40.0
+mr,Weak positive,1,6.67
+mr,Not tested,1,6.67
+vp,Negative,14,93.33
+vp,Not tested,1,6.67
+catalase,Positive,9,60.0
+catalase,Negative,5,33.33
+catalase,Not recorded,1,6.67
+coagulase,Negative,8,53.33
+coagulase,Positive,4,26.67
+coagulase,Not tested,2,13.33
+coagulase,Not recorded,1,6.67
+oxidase,Positive,8,53.33
+oxidase,Negative,4,26.67
+oxidase,Not tested,2,13.33
+oxidase,Not recorded,1,6.67
+h2s,Negative,15,100.0

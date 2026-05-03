@@ -1,0 +1,6 @@
+metric,value
+Total encoded samples,18
+Samples with recorded results,15
+Samples with missing/blank results,3
+Sites represented,"A, B, C, D, E, F"
+Sites with complete recorded replicates,"A, B, C, D, F"

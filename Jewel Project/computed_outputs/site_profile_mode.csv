@@ -1,0 +1,6 @@
+site,gram_reaction,cell_shape,hemolysis,mac_lactose,mannitol,emb_metallic_sheen,emb_lactose,ssa_lactose,h2s,tsi,sca,sim_motility,mr,vp,catalase,coagulase,oxidase
+A,Negative,Bacilli,Gamma,Lactose fermenter,Negative,Yes,Lactose fermenter,Non-lactose fermenter,Negative,Not tested,Not tested,Positive,Negative,Negative,Negative,Not tested,Not tested
+B,Positive,Bacilli,Gamma,Non-lactose fermenter,Positive,No,Non-lactose fermenter,Non-lactose fermenter,Negative,K/K,Not recorded,Positive,Negative,Negative,Positive,Positive,Positive
+C,Negative,Bacilli,Gamma,Mixed,Not applicable,No,Non-lactose fermenter,Non-lactose fermenter,Negative,Not recorded,Not recorded,Positive,Positive,Negative,Negative,Negative,Positive
+D,Negative,Bacilli,Gamma,Non-lactose fermenter,Negative,No,Non-lactose fermenter,Mixed,Negative,Not recorded,Negative,Positive,Negative,Negative,Positive,Positive,Negative
+F,Negative,Bacilli,Gamma,Non-lactose fermenter,Negative,No,Indeterminate,Non-lactose fermenter,Negative,K/K,Negative,Positive,Negative,Negative,Positive,Negative,Positive

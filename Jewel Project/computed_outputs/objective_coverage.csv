@@ -1,0 +1,5 @@
+objective,answerable_with_notebook,what_notebook_can_answer,limitation
+1. Isolate bacterial microorganisms from swabbed samples,Partly,Summarize recorded growth/presence after lab isolation.,Actual isolation is a wet-lab procedure and cannot be done computationally.
+2. Determine cultural and morphological characteristics,Yes,"Frequency and percentage summaries for Gram stain, morphology, colony/media characteristics, and hemolysis.",Depends on accuracy/completeness of encoded lab observations.
+3. Identify biochemical characteristics,"Yes, descriptively","Summarize TSI, SCA, SIM, MR, VP, catalase, coagulase, and oxidase results.",Exact species identification remains presumptive without confirmatory identification tests.
+4. Compare bacterial profiles among sampling sites,"Yes, with missing-data caveat","Compare profiles by site using crosstabs, percentages, binary profile matrices, and similarity scores.",Site E is blank/missing; categorical data are not suitable for ANOVA unless numeric CFU/microbial-load data are added.
