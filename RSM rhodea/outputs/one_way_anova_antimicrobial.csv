@@ -1,0 +1,4 @@
+Organism,F,p_value,Significant_0.05
+Escherichia coli,0.99845,0.46996,False
+Salmonella spp.,,,False
+Staphylococcus aureus,6.3,0.00059,True

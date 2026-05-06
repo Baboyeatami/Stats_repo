@@ -1,0 +1,134 @@
+ANTIMICROBIAL POTENTIAL OF ILOCOS WHITE GARLIC
+
+(Allium sativum L.) PEEL POWDER PROCESSED UNDER
+
+VARYING DRYING TIME AND TEMPERATURE
+
+CONDITONS
+
+Statement of the Problem
+
+Food waste had remained a pressing concern in the Philippines, with garlic peel contributing significantly to agricultural by-products. In garlic producing regions such as Ilocos Norte, the substantial volume of discarded garlic peel had posed both an environmental challenge and an opportunity for upcycling. Given its documented antimicrobial properties, garlic peel was processed into powder as a value-added product that supported sustainability and waste reduction.
+
+However, while previous studies had established the presence of bioactive compounds in garlic peel, limited research had examined how processing conditions specifically drying time and temperature affected its physico-chemical characteristics and antimicrobial efficacy. Addressing the gap was essential to optimize garlic peel utilization and to develop functional products that contributed to food safety and sustainability.
+
+Generally, this study aimed to upcycle Ilocos white garlic peel into a powder and to compare the antimicrobial properties or raw and oven-dried garlic peel powder. Specifically, it aimed to;
+
+develop garlic peel powder using oven-drying at varying time and temperature conditions;
+
+determine its physico-chemical characteristics in terms of water activity, moisture content, color, water absorption capacity, and water solubility index; and
+
+evaluate the antimicrobial capacity of Ilocos white garlic peel powder against Staphylococcus aureus, Escherichia coli, and Salmonella spp.
+
+Conceptual Framework
+
+The development of Ilocos white garlic peel powder through oven-drying was undertaken to help minimize food waste while exploring its antimicrobial potential. This study adopted the Input-Process-Output (IPO) paradigm as its guiding framework.
+
+As illustrated in Figure 1, the input consisted of garlic peel powder subjected to oven-drying at specific durations (4 hrs, 6 hrs, & 8 hrs), and temperatures (50°C, 60°C, & 70°C). The process involved conducting physico-chemical analyses, including water activity, moisture content, color analysis, water absorption capacity, and water solubility index alongside antimicrobial activity testing. Through this process, the optimized formulation of garlic peel powder was obtained.
+
+The output of the study comprised the optimized garlic peel powder, the results of the physico-chemical, and the findings of the antimicrobial activity tests.
+
+A. Garlic peel powder1. Optimized peelpowder2. Physico-chemical results3. Antimicrobial resultsA. Garlic peel powder1. Optimized peelpowder2. Physico-chemical results3. Antimicrobial resultsA. Garlic peel powder1. Powder development via oven-drying methodPhysico-chemical Water ActivityMoisture AnalysisColor AnalysisWater Absorption CapacityWater Solubility Index2. Antimicrobial Activity Analysis Staphylococcus aureusEscherichia coliSalmonella spp.A. Garlic peel powder1. Powder development via oven-drying methodPhysico-chemical Water ActivityMoisture AnalysisColor AnalysisWater Absorption CapacityWater Solubility Index2. Antimicrobial Activity Analysis Staphylococcus aureusEscherichia coliSalmonella spp.A. Garlic peel powder1. Garlic peels2. Drying Parametersa. Time (hrs)468 b. Temperature (°C) 506070A. Garlic peel powder1. Garlic peels2. Drying Parametersa. Time (hrs)468 b. Temperature (°C) 506070INPUT			PROCESS				OUTPUT
+
+Figure 1. Conceptual paradigm of the garlic peel powder.
+
+Hypotheses of the Study
+
+The hypotheses were formulated in accordance with the effects of varying oven-drying parameters, which were expected to result in differences in the physico-chemical qualities and antimicrobial activity of the garlic peel powder.  Based on the conceptual framework, the following hypotheses were be tested:
+
+Oven-drying time and temperature significantly affect the physico-chemical properties, and antimicrobial activity of Ilocos white garlic peel powder.
+
+Garlic peel powder exhibits significant antimicrobial activity against Staphylococcus aureus, Escherichia coli, and Salmonella spp.
+
+METHODOLOGY
+
+Research Design
+
+This study employed a quantitative research approach. An experimental research design was utilize to develop and evaluate the antimicrobial potential of garlic peel powder. In the production of the garlic peel powder, a  Full factorial design was applied wherein two main variables; Temperature (50 °C, 60 °C & 70 °C) and Time (4hrs, 6hrs, & 8hrs), were tested to determine their effects on the quality of Ilocos white garlic powder.
+
+Table 3. Experimental matrix of different variables used for development of Garlic Peel Powder.
+
+TREATMENTS | TEMPERATURE (°C) | TIME (hrs)
+1 | 50 | 4
+2 | 50 | 6
+3 | 50 | 8
+4 | 60 | 4
+5 | 60 | 6
+6 | 60 | 8
+7 | 70 | 4
+8 | 70 | 6
+9 | 70 | 7
+
+Variable of the Study
+
+This study involved two  types of variables: independent and dependent. The independent variables were the oven-drying parameters, specifically the varying time and temperature conditions. These parameters were manipulated to determine their effects on the quality of garlic peel powder, with temperature levels set at 50 °C, 60 °C & 70 °C, and dying times at 4 hours, 6 hours, and 8 hours.
+
+Meanwhile, the dependent variables consisted of the physico-chemical and antimicrobial properties of the garlic peel powder. These properties were measured to assess how to manipulated drying parameters influenced the overall quality and antimicrobial potential of the product
+
+Data Gathering Procedures
+
+Data were collected through comprehensive laboratory analyses which included both physico-chemical, and antimicrobial activity assessments. Physico-chemical analyses were conducted to determine whether the developed product met the required standards of quality, safety, and stability expected of a powder. The parameters examined in this study were water activity, moisture content, color analysis, water absorption capacity, and water solubility index.
+
+Antimicrobial activity was evaluated using the disk-diffusion assay. The zone of inhibition were measured to assess the antimicrobial potential of the garlic peel powder against Salmonella spp., Escherichia coli, and Staphylococcus aureus.
+
+Physico-chemical analyses
+
+The formulations of garlic peel powder underwent physico-chemical analyses. Assessing the product’s physico-chemical characteristic was major contributor to ensuring its quality and safety. All analyses were performed in triplicate to guarantee accuracy and reproducibility. The physico-chemical attributes examined included water activity, moisture content, color analysis, water absorption capacity, and water solubility index.
+
+Water Activity (aw). The water activity of the garlic peel powder was measured using a Smart Water Activity Meter (Biobase BWA-3A) to ensure the stability and safety against microbial growth following the Official Methods of Analysis by AOAC International (AOAC 2016). Approximately five (5) g of the sample was placed on the plate, which was then inserted into the chamber and sealed. The confirmation setting was selected to start initiate analysis, and the machine automatically displayed readings after ten (10) minutes. The procedure was repeated twice more to produce triplicate results.
+
+Moisture Analysis. The moisture content of the garlic peel powder was analyzed using Ohaus MB95 Moisture Analyzer, following the AOAC method. Before conducting any analysis, the machine was calibrated to ensure accuracy. The procedure began by placing the pan inside the analyzer and closing the lid and tare. Approximately five (5)grams of the powder sample was then weighed into the aluminum pan, with laboratory practices observed to prevent additional moisture that could cause inaccurate readings.
+
+Once the sample was placed, the lid was closed, and the machine automatically initiated the drying process. The moisture content result was displayed on the monitor after completion. The analysis was repeated twice more to obtain triplicate measurements, ensuring reliability and reproducibility of the data.
+
+Color Analysis. The color values of the garlic peel powder were measured using a Chroma Meter CR-410, following the standards of the CIE color system. Prior to measurement, the device was turned on and calibrated using the standard white calibration tile. The sample was placed in a 60 mm petri dish container, and the colorimeter was positioned on top of the container. The measurement button was pressed to obtain the L*, a*, and b* values, which were then recorded.
+
+Two additional readings were taken to produce triplicate measurements, and the values were averaged to ensure accuracy. The formula below was applied to calculate the overall color of the sample:
+
+[Eq.1][Eq.1]
+
+Where:
+
+lightness
+
+red-green axis
+
+yellow-blue axis
+
+[Eq. 2][Eq. 2]Water absorption capacity. The water absorption capacity (WAC) was determined to measure how much water the powder could absorb, as this property influences its structure and potential applications. The procedure followed the methods described by Jane et al. (1999) and Adebowale et al. (2012).
+
+Centrifuge tubes were pre-weighed until a constant weight was achieved, and the values were recorded. One gram of the powder sample was then weighed and mixed with 10 mL of distilled water at room temperature. The mixture was thoroughly agitated in the tube for three minutes. After shaking, the mixture was centrifuged at 4000 rpm for 30 minutes. Following centrifugation, the supernatant was decanted, and the residue was re-weighed. The percentage of WAC was computed using the following formula:
+
+Where:
+
+weigh of empty test tube
+
+weigh of sample
+
+weigh of residue in the centrifuged tube
+
+Water solubility index. The water solubility index (WSI) of the garlic peel powder was determined following the method described by Padm (2022). A 2.5 g sample of the powder was mixed with 100 mL of distilled water in a centrifuge tube and incubated in a water bath at 37°C for 30 minutes. The sample was then centrifuged at 4000 rpm for 40 minutes. The supernatant was carefully transferred into a pre-weighed beaker and subjected to oven drying at 103 ± 2°C until constant weight was achieved. The WSI (%) was calculated using the following formula:
+
+[Eq. 3][Eq. 3]   Where:
+
+solid weigh of supernatant= mass of solids left after drying the supernatant
+
+initial sample weigh= mass of garlic peel powder
+
+Antimicrobial analysis
+
+The antimicrobial activity of the garlic peel powder against three pathogenic bacterial strains Escherichia coli, Staphylococcus aureus, and Salmonella spp., was assessed using the Kirby-Bauer disk diffusion assay, following the methods described by Hudzicki (2009), Sapkota (2022), and Desbois (2015), with minor modifications. All procedures adhered to accepted microbial practices throughout the process.
+
+Nutrient agar was used instead of Mueller-Hinton agar. The medium was prepared by dissolving 28 g of nutrient agar in 1000 mL of distilled water, followed by heating to boiling until fully dissolved. The solution was then sterilized by autoclaving at 15 psi and 121°C for 1 hour, in accordance with the manufacturer’s instructions. Approximately 30 mL of the sterilized medium was poured into petri dishes to achieve a depth of about 4 mm and allowed to solidify for 10–15 minutes inside a laminar flow cabinet.
+
+Within the laminar flow, a sterile cotton swab was immersed in the bacterial isolate and used to uniformly inoculate the agar surface by streaking in multiple directions, rotating the plate approximately 60° each time to ensure even distribution. After inoculation, impregnated discs were placed on the agar surface.
+
+The discs were prepared by sterilizing uniform 6 mm filter paper discs. In a sterile beaker, 1 g of garlic peel powder was mixed with 10 mL of distilled water. The discs were soaked in this suspension and aseptically transferred onto the inoculated agar using sterile forceps. Antimicrobial testing was performed in triplicate by placing three discs on each inoculated plate, spaced at least 24 mm apart. A separate control plate was prepared using the same procedure for comparison.
+
+The plates were incubated in an inverted position at 35°C for 18–24 hours. After incubation, the diameters of the zones of inhibition surrounding each disc were measured using a vernier caliper. Larger zones indicated stronger antimicrobial activity.
+
+Data Analysis
+
+All experiments were conducted in triplicate for each condition, with two independent samples to ensure accuracy and reproducibility. The relationship between the independent variables: time and temperature and the resulting physico-chemical properties was analyzed using two-way ANOVA. This test determined whether significant differences existed in the garlic peel powder against.
+
+Meanwhile, a one-way Analysis of Variance (ANOVA) was performed to compare the antimicrobial activity among the different treatments against Escherichia coli, Staphylococcus aureus, and Salmonella spp. Response Surface Methodology (RSM) was also employed to generate response surface plots and to identify the combination of variables that produced the most optimized garlic peel powder.

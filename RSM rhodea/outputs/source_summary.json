@@ -1,0 +1,2613 @@
+{
+  "docx": {
+    "matches": [
+      "METHODOLOGY",
+      "Water Activity (aw). The water activity of the garlic peel powder was measured using a Smart Water Activity Meter (Biobase BWA-3A) to ensure the stability and safety against microbial growth following the Official Methods of Analysis by AOAC International (AOAC 2016). Approximately five (5) g of the sample was placed on the plate, which was then inserted into the chamber and sealed. The confirmation setting was selected to start initiate analysis, and the machine automatically displayed readings after ten (10) minutes. The procedure was repeated twice more to produce triplicate results.",
+      "Moisture Analysis. The moisture content of the garlic peel powder was analyzed using Ohaus MB95 Moisture Analyzer, following the AOAC method. Before conducting any analysis, the machine was calibrated to ensure accuracy. The procedure began by placing the pan inside the analyzer and closing the lid and tare. Approximately five (5)grams of the powder sample was then weighed into the aluminum pan, with laboratory practices observed to prevent additional moisture that could cause inaccurate readings.",
+      "[Eq. 2][Eq. 2]Water absorption capacity. The water absorption capacity (WAC) was determined to measure how much water the powder could absorb, as this property influences its structure and potential applications. The procedure followed the methods described by Jane et al. (1999) and Adebowale et al. (2012).",
+      "Water solubility index. The water solubility index (WSI) of the garlic peel powder was determined following the method described by Padm (2022). A 2.5 g sample of the powder was mixed with 100 mL of distilled water in a centrifuge tube and incubated in a water bath at 37\u00b0C for 30 minutes. The sample was then centrifuged at 4000 rpm for 40 minutes. The supernatant was carefully transferred into a pre-weighed beaker and subjected to oven drying at 103 \u00b1 2\u00b0C until constant weight was achieved. The WSI (%) was calculated using the following formula:",
+      "The antimicrobial activity of the garlic peel powder against three pathogenic bacterial strains Escherichia coli, Staphylococcus aureus, and Salmonella spp., was assessed using the Kirby-Bauer disk diffusion assay, following the methods described by Hudzicki (2009), Sapkota (2022), and Desbois (2015), with minor modifications. All procedures adhered to accepted microbial practices throughout the process.",
+      "Data Analysis",
+      "Meanwhile, a one-way Analysis of Variance (ANOVA) was performed to compare the antimicrobial activity among the different treatments against Escherichia coli, Staphylococcus aureus, and Salmonella spp. Response Surface Methodology (RSM) was also employed to generate response surface plots and to identify the combination of variables that produced the most optimized garlic peel powder."
+    ],
+    "context": [
+      "Garlic peel powder exhibits significant antimicrobial activity against Staphylococcus aureus, Escherichia coli, and Salmonella spp.",
+      "METHODOLOGY",
+      "Research Design",
+      "This study employed a quantitative research approach. An experimental research design was utilize to develop and evaluate the antimicrobial potential of garlic peel powder. In the production of the garlic peel powder, a  Full factorial design was applied wherein two main variables; Temperature (50 \u00b0C, 60 \u00b0C & 70 \u00b0C) and Time (4hrs, 6hrs, & 8hrs), were tested to determine their effects on the quality of Ilocos white garlic powder.",
+      "Table 3. Experimental matrix of different variables used for development of Garlic Peel Powder.",
+      "TREATMENTS | TEMPERATURE (\u00b0C) | TIME (hrs)\n1 | 50 | 4\n2 | 50 | 6\n3 | 50 | 8\n4 | 60 | 4\n5 | 60 | 6\n6 | 60 | 8\n7 | 70 | 4\n8 | 70 | 6\n9 | 70 | 7",
+      "Variable of the Study",
+      "This study involved two  types of variables: independent and dependent. The independent variables were the oven-drying parameters, specifically the varying time and temperature conditions. These parameters were manipulated to determine their effects on the quality of garlic peel powder, with temperature levels set at 50 \u00b0C, 60 \u00b0C & 70 \u00b0C, and dying times at 4 hours, 6 hours, and 8 hours.",
+      "The formulations of garlic peel powder underwent physico-chemical analyses. Assessing the product\u2019s physico-chemical characteristic was major contributor to ensuring its quality and safety. All analyses were performed in triplicate to guarantee accuracy and reproducibility. The physico-chemical attributes examined included water activity, moisture content, color analysis, water absorption capacity, and water solubility index.",
+      "Water Activity (aw). The water activity of the garlic peel powder was measured using a Smart Water Activity Meter (Biobase BWA-3A) to ensure the stability and safety against microbial growth following the Official Methods of Analysis by AOAC International (AOAC 2016). Approximately five (5) g of the sample was placed on the plate, which was then inserted into the chamber and sealed. The confirmation setting was selected to start initiate analysis, and the machine automatically displayed readings after ten (10) minutes. The procedure was repeated twice more to produce triplicate results.",
+      "Moisture Analysis. The moisture content of the garlic peel powder was analyzed using Ohaus MB95 Moisture Analyzer, following the AOAC method. Before conducting any analysis, the machine was calibrated to ensure accuracy. The procedure began by placing the pan inside the analyzer and closing the lid and tare. Approximately five (5)grams of the powder sample was then weighed into the aluminum pan, with laboratory practices observed to prevent additional moisture that could cause inaccurate readings.",
+      "Once the sample was placed, the lid was closed, and the machine automatically initiated the drying process. The moisture content result was displayed on the monitor after completion. The analysis was repeated twice more to obtain triplicate measurements, ensuring reliability and reproducibility of the data.",
+      "Color Analysis. The color values of the garlic peel powder were measured using a Chroma Meter CR-410, following the standards of the CIE color system. Prior to measurement, the device was turned on and calibrated using the standard white calibration tile. The sample was placed in a 60 mm petri dish container, and the colorimeter was positioned on top of the container. The measurement button was pressed to obtain the L*, a*, and b* values, which were then recorded.",
+      "Two additional readings were taken to produce triplicate measurements, and the values were averaged to ensure accuracy. The formula below was applied to calculate the overall color of the sample:",
+      "[Eq.1][Eq.1]",
+      "Where:",
+      "lightness",
+      "yellow-blue axis",
+      "[Eq. 2][Eq. 2]Water absorption capacity. The water absorption capacity (WAC) was determined to measure how much water the powder could absorb, as this property influences its structure and potential applications. The procedure followed the methods described by Jane et al. (1999) and Adebowale et al. (2012).",
+      "Centrifuge tubes were pre-weighed until a constant weight was achieved, and the values were recorded. One gram of the powder sample was then weighed and mixed with 10 mL of distilled water at room temperature. The mixture was thoroughly agitated in the tube for three minutes. After shaking, the mixture was centrifuged at 4000 rpm for 30 minutes. Following centrifugation, the supernatant was decanted, and the residue was re-weighed. The percentage of WAC was computed using the following formula:",
+      "Where:",
+      "weigh of empty test tube",
+      "weigh of sample",
+      "weigh of residue in the centrifuged tube",
+      "Water solubility index. The water solubility index (WSI) of the garlic peel powder was determined following the method described by Padm (2022). A 2.5 g sample of the powder was mixed with 100 mL of distilled water in a centrifuge tube and incubated in a water bath at 37\u00b0C for 30 minutes. The sample was then centrifuged at 4000 rpm for 40 minutes. The supernatant was carefully transferred into a pre-weighed beaker and subjected to oven drying at 103\u202f\u00b1\u202f2\u00b0C until constant weight was achieved. The WSI (%) was calculated using the following formula:",
+      "[Eq. 3][Eq. 3]   Where:",
+      "solid weigh of supernatant= mass of solids left after drying the supernatant",
+      "initial sample weigh= mass of garlic peel powder",
+      "Antimicrobial analysis",
+      "The antimicrobial activity of the garlic peel powder against three pathogenic bacterial strains Escherichia coli, Staphylococcus aureus, and Salmonella spp., was assessed using the Kirby-Bauer disk diffusion assay, following the methods described by Hudzicki (2009), Sapkota (2022), and Desbois (2015), with minor modifications. All procedures adhered to accepted microbial practices throughout the process.",
+      "Nutrient agar was used instead of Mueller-Hinton agar. The medium was prepared by dissolving 28 g of nutrient agar in 1000 mL of distilled water, followed by heating to boiling until fully dissolved. The solution was then sterilized by autoclaving at 15 psi and 121\u00b0C for 1 hour, in accordance with the manufacturer\u2019s instructions. Approximately 30 mL of the sterilized medium was poured into petri dishes to achieve a depth of about 4 mm and allowed to solidify for 10\u201315 minutes inside a laminar flow cabinet.",
+      "Within the laminar flow, a sterile cotton swab was immersed in the bacterial isolate and used to uniformly inoculate the agar surface by streaking in multiple directions, rotating the plate approximately 60\u00b0 each time to ensure even distribution. After inoculation, impregnated discs were placed on the agar surface.",
+      "The discs were prepared by sterilizing uniform 6 mm filter paper discs. In a sterile beaker, 1 g of garlic peel powder was mixed with 10 mL of distilled water. The discs were soaked in this suspension and aseptically transferred onto the inoculated agar using sterile forceps. Antimicrobial testing was performed in triplicate by placing three discs on each inoculated plate, spaced at least 24 mm apart. A separate control plate was prepared using the same procedure for comparison.",
+      "The plates were incubated in an inverted position at 35\u00b0C for 18\u201324 hours. After incubation, the diameters of the zones of inhibition surrounding each disc were measured using a vernier caliper. Larger zones indicated stronger antimicrobial activity.",
+      "Data Analysis",
+      "All experiments were conducted in triplicate for each condition, with two independent samples to ensure accuracy and reproducibility. The relationship between the independent variables: time and temperature and the resulting physico-chemical properties was analyzed using two-way ANOVA. This test determined whether significant differences existed in the garlic peel powder against.",
+      "Meanwhile, a one-way Analysis of Variance (ANOVA) was performed to compare the antimicrobial activity among the different treatments against Escherichia coli, Staphylococcus aureus, and Salmonella spp. Response Surface Methodology (RSM) was also employed to generate response surface plots and to identify the combination of variables that produced the most optimized garlic peel powder."
+    ],
+    "all_text": [
+      "ANTIMICROBIAL POTENTIAL OF ILOCOS WHITE GARLIC\n(Allium sativum L.) PEEL POWDER PROCESSED UNDER\nVARYING DRYING TIME AND TEMPERATURE\nCONDITONS\nStatement of the Problem\nFood waste had remained a pressing concern in the Philippines, with garlic peel contributing significantly to agricultural by-products. In garlic producing regions such as Ilocos Norte, the substantial volume of discarded garlic peel had posed both an environmental challenge and an opportunity for upcycling. Given its documented antimicrobial properties, garlic peel was processed into powder as a value-added product that supported sustainability and waste reduction.\nHowever, while previous studies had established the presence of bioactive compounds in garlic peel, limited research had examined how processing conditions specifically drying time and temperature affected its physico-chemical characteristics and antimicrobial efficacy. Addressing the gap was essential to optimize garlic peel utilization and to develop functional products that contributed to food safety and sustainability.\nGenerally, this study aimed to upcycle Ilocos white garlic peel into a powder and to compare the antimicrobial properties or raw and oven-dried garlic peel powder. Specifically, it aimed to;\ndevelop garlic peel powder using oven-drying at varying time and temperature conditions;\ndetermine its physico-chemical characteristics in terms of water activity, moisture content, color, water absorption capacity, and water solubility index; and\nevaluate the antimicrobial capacity of Ilocos white garlic peel powder against Staphylococcus aureus, Escherichia coli, and Salmonella spp.\nConceptual Framework\nThe development of Ilocos white garlic peel powder through oven-drying was undertaken to help minimize food waste while exploring its antimicrobial potential. This study adopted the Input-Process-Output (IPO) paradigm as its guiding framework.\nAs illustrated in Figure 1, the input consisted of garlic peel powder subjected to oven-drying at specific durations (4 hrs, 6 hrs, & 8 hrs), and temperatures (50\u00b0C, 60\u00b0C, & 70\u00b0C). The process involved conducting physico-chemical analyses, including water activity, moisture content, color analysis, water absorption capacity, and water solubility index alongside antimicrobial activity testing. Through this process, the optimized formulation of garlic peel powder was obtained.\nThe output of the study comprised the optimized garlic peel powder, the results of the physico-chemical, and the findings of the antimicrobial activity tests.\nA. Garlic peel powder1. Optimized peelpowder2. Physico-chemical results3. Antimicrobial resultsA. Garlic peel powder1. Optimized peelpowder2. Physico-chemical results3. Antimicrobial resultsA. Garlic peel powder1. Powder development via oven-drying methodPhysico-chemical Water ActivityMoisture AnalysisColor AnalysisWater Absorption CapacityWater Solubility Index2. Antimicrobial Activity Analysis Staphylococcus aureusEscherichia coliSalmonella spp.A. Garlic peel powder1. Powder development via oven-drying methodPhysico-chemical Water ActivityMoisture AnalysisColor AnalysisWater Absorption CapacityWater Solubility Index2. Antimicrobial Activity Analysis Staphylococcus aureusEscherichia coliSalmonella spp.A. Garlic peel powder1. Garlic peels2. Drying Parametersa. Time (hrs)468 b. Temperature (\u00b0C) 506070A. Garlic peel powder1. Garlic peels2. Drying Parametersa. Time (hrs)468 b. Temperature (\u00b0C) 506070INPUT\t\t\tPROCESS\t\t\t\tOUTPUT\nFigure 1. Conceptual paradigm of the garlic peel powder.\nHypotheses of the Study\nThe hypotheses were formulated in accordance with the effects of varying oven-drying parameters, which were expected to result in differences in the physico-chemical qualities and antimicrobial activity of the garlic peel powder.  Based on the conceptual framework, the following hypotheses were be tested:\nOven-drying time and temperature significantly affect the physico-chemical properties, and antimicrobial activity of Ilocos white garlic peel powder.\nGarlic peel powder exhibits significant antimicrobial activity against Staphylococcus aureus, Escherichia coli, and Salmonella spp.\nMETHODOLOGY\nResearch Design\nThis study employed a quantitative research approach. An experimental research design was utilize to develop and evaluate the antimicrobial potential of garlic peel powder. In the production of the garlic peel powder, a  Full factorial design was applied wherein two main variables; Temperature (50 \u00b0C, 60 \u00b0C & 70 \u00b0C) and Time (4hrs, 6hrs, & 8hrs), were tested to determine their effects on the quality of Ilocos white garlic powder.\nTable 3. Experimental matrix of different variables used for development of Garlic Peel Powder.\nTREATMENTS | TEMPERATURE (\u00b0C) | TIME (hrs)\n1 | 50 | 4\n2 | 50 | 6\n3 | 50 | 8\n4 | 60 | 4\n5 | 60 | 6\n6 | 60 | 8\n7 | 70 | 4\n8 | 70 | 6\n9 | 70 | 7\nVariable of the Study\nThis study involved two  types of variables: independent and dependent. The independent variables were the oven-drying parameters, specifically the varying time and temperature conditions. These parameters were manipulated to determine their effects on the quality of garlic peel powder, with temperature levels set at 50 \u00b0C, 60 \u00b0C & 70 \u00b0C, and dying times at 4 hours, 6 hours, and 8 hours.\nMeanwhile, the dependent variables consisted of the physico-chemical and antimicrobial properties of the garlic peel powder. These properties were measured to assess how to manipulated drying parameters influenced the overall quality and antimicrobial potential of the product\nData Gathering Procedures\nData were collected through comprehensive laboratory analyses which included both physico-chemical, and antimicrobial activity assessments. Physico-chemical analyses were conducted to determine whether the developed product met the required standards of quality, safety, and stability expected of a powder. The parameters examined in this study were water activity, moisture content, color analysis, water absorption capacity, and water solubility index.\nAntimicrobial activity was evaluated using the disk-diffusion assay. The zone of inhibition were measured to assess the antimicrobial potential of the garlic peel powder against Salmonella spp., Escherichia coli, and Staphylococcus aureus.\nPhysico-chemical analyses\nThe formulations of garlic peel powder underwent physico-chemical analyses. Assessing the product\u2019s physico-chemical characteristic was major contributor to ensuring its quality and safety. All analyses were performed in triplicate to guarantee accuracy and reproducibility. The physico-chemical attributes examined included water activity, moisture content, color analysis, water absorption capacity, and water solubility index.\nWater Activity (aw). The water activity of the garlic peel powder was measured using a Smart Water Activity Meter (Biobase BWA-3A) to ensure the stability and safety against microbial growth following the Official Methods of Analysis by AOAC International (AOAC 2016). Approximately five (5) g of the sample was placed on the plate, which was then inserted into the chamber and sealed. The confirmation setting was selected to start initiate analysis, and the machine automatically displayed readings after ten (10) minutes. The procedure was repeated twice more to produce triplicate results.\nMoisture Analysis. The moisture content of the garlic peel powder was analyzed using Ohaus MB95 Moisture Analyzer, following the AOAC method. Before conducting any analysis, the machine was calibrated to ensure accuracy. The procedure began by placing the pan inside the analyzer and closing the lid and tare. Approximately five (5)grams of the powder sample was then weighed into the aluminum pan, with laboratory practices observed to prevent additional moisture that could cause inaccurate readings.\nOnce the sample was placed, the lid was closed, and the machine automatically initiated the drying process. The moisture content result was displayed on the monitor after completion. The analysis was repeated twice more to obtain triplicate measurements, ensuring reliability and reproducibility of the data.\nColor Analysis. The color values of the garlic peel powder were measured using a Chroma Meter CR-410, following the standards of the CIE color system. Prior to measurement, the device was turned on and calibrated using the standard white calibration tile. The sample was placed in a 60 mm petri dish container, and the colorimeter was positioned on top of the container. The measurement button was pressed to obtain the L*, a*, and b* values, which were then recorded.\nTwo additional readings were taken to produce triplicate measurements, and the values were averaged to ensure accuracy. The formula below was applied to calculate the overall color of the sample:\n[Eq.1][Eq.1]\nWhere:\nlightness\nred-green axis\nyellow-blue axis\n[Eq. 2][Eq. 2]Water absorption capacity. The water absorption capacity (WAC) was determined to measure how much water the powder could absorb, as this property influences its structure and potential applications. The procedure followed the methods described by Jane et al. (1999) and Adebowale et al. (2012).\nCentrifuge tubes were pre-weighed until a constant weight was achieved, and the values were recorded. One gram of the powder sample was then weighed and mixed with 10 mL of distilled water at room temperature. The mixture was thoroughly agitated in the tube for three minutes. After shaking, the mixture was centrifuged at 4000 rpm for 30 minutes. Following centrifugation, the supernatant was decanted, and the residue was re-weighed. The percentage of WAC was computed using the following formula:\nWhere:\nweigh of empty test tube\nweigh of sample\nweigh of residue in the centrifuged tube\nWater solubility index. The water solubility index (WSI) of the garlic peel powder was determined following the method described by Padm (2022). A 2.5 g sample of the powder was mixed with 100 mL of distilled water in a centrifuge tube and incubated in a water bath at 37\u00b0C for 30 minutes. The sample was then centrifuged at 4000 rpm for 40 minutes. The supernatant was carefully transferred into a pre-weighed beaker and subjected to oven drying at 103\u202f\u00b1\u202f2\u00b0C until constant weight was achieved. The WSI (%) was calculated using the following formula:\n[Eq. 3][Eq. 3]   Where:\nsolid weigh of supernatant= mass of solids left after drying the supernatant\ninitial sample weigh= mass of garlic peel powder\nAntimicrobial analysis\nThe antimicrobial activity of the garlic peel powder against three pathogenic bacterial strains Escherichia coli, Staphylococcus aureus, and Salmonella spp., was assessed using the Kirby-Bauer disk diffusion assay, following the methods described by Hudzicki (2009), Sapkota (2022), and Desbois (2015), with minor modifications. All procedures adhered to accepted microbial practices throughout the process.\nNutrient agar was used instead of Mueller-Hinton agar. The medium was prepared by dissolving 28 g of nutrient agar in 1000 mL of distilled water, followed by heating to boiling until fully dissolved. The solution was then sterilized by autoclaving at 15 psi and 121\u00b0C for 1 hour, in accordance with the manufacturer\u2019s instructions. Approximately 30 mL of the sterilized medium was poured into petri dishes to achieve a depth of about 4 mm and allowed to solidify for 10\u201315 minutes inside a laminar flow cabinet.\nWithin the laminar flow, a sterile cotton swab was immersed in the bacterial isolate and used to uniformly inoculate the agar surface by streaking in multiple directions, rotating the plate approximately 60\u00b0 each time to ensure even distribution. After inoculation, impregnated discs were placed on the agar surface.\nThe discs were prepared by sterilizing uniform 6 mm filter paper discs. In a sterile beaker, 1 g of garlic peel powder was mixed with 10 mL of distilled water. The discs were soaked in this suspension and aseptically transferred onto the inoculated agar using sterile forceps. Antimicrobial testing was performed in triplicate by placing three discs on each inoculated plate, spaced at least 24 mm apart. A separate control plate was prepared using the same procedure for comparison.\nThe plates were incubated in an inverted position at 35\u00b0C for 18\u201324 hours. After incubation, the diameters of the zones of inhibition surrounding each disc were measured using a vernier caliper. Larger zones indicated stronger antimicrobial activity.\nData Analysis\nAll experiments were conducted in triplicate for each condition, with two independent samples to ensure accuracy and reproducibility. The relationship between the independent variables: time and temperature and the resulting physico-chemical properties was analyzed using two-way ANOVA. This test determined whether significant differences existed in the garlic peel powder against.\nMeanwhile, a one-way Analysis of Variance (ANOVA) was performed to compare the antimicrobial activity among the different treatments against Escherichia coli, Staphylococcus aureus, and Salmonella spp. Response Surface Methodology (RSM) was also employed to generate response surface plots and to identify the combination of variables that produced the most optimized garlic peel powder."
+    ]
+  },
+  "workbook": {
+    "sheets": [
+      {
+        "name": "WAC(%)",
+        "shape": [
+          30,
+          7
+        ],
+        "columns": [
+          {
+            "name": "Treatment",
+            "dtype": "float64",
+            "non_null": 12,
+            "missing": 18,
+            "unique": 10,
+            "sample": [
+              "1.0",
+              "2.0",
+              "3.0",
+              "4.0",
+              "5.0"
+            ]
+          },
+          {
+            "name": "INPUT HERE!!!",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 0,
+            "unique": 27,
+            "sample": [
+              "285.06",
+              "296.55",
+              "307.57",
+              "330.67",
+              "273.84"
+            ]
+          },
+          {
+            "name": "Mean",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "296.3933333333334",
+              "301.90333333333336",
+              "333.22333333333336",
+              "341.2066666666667",
+              "364.27"
+            ]
+          },
+          {
+            "name": "(xi-Mean)",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 27,
+            "sample": [
+              "-11.333333333333371",
+              "0.15666666666663787",
+              "11.17666666666662",
+              "28.76666666666665",
+              "-28.06333333333339"
+            ]
+          },
+          {
+            "name": "(xi-Mean)^2",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 27,
+            "sample": [
+              "128.4444444444453",
+              "0.02454444444443542",
+              "124.91787777777672",
+              "827.5211111111103",
+              "787.550677777781"
+            ]
+          },
+          {
+            "name": "SD",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "11.255817754980455",
+              "28.421527638980535",
+              "10.007543821204743",
+              "5.369509598960912",
+              "5.141488111432312"
+            ]
+          },
+          {
+            "name": "%CV",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "3.797594780015448",
+              "9.41411521534946",
+              "3.0032542202541066",
+              "1.573682499060465",
+              "1.4114497794032757"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "Treatment": "1.0",
+            "INPUT HERE!!!": "285.06",
+            "Mean": "296.3933333333334",
+            "(xi-Mean)": "-11.333333333333371",
+            "(xi-Mean)^2": "128.4444444444453",
+            "SD": "11.255817754980455",
+            "%CV": "3.797594780015448"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "296.55",
+            "Mean": "",
+            "(xi-Mean)": "0.15666666666663787",
+            "(xi-Mean)^2": "0.02454444444443542",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "307.57",
+            "Mean": "",
+            "(xi-Mean)": "11.17666666666662",
+            "(xi-Mean)^2": "124.91787777777672",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "2.0",
+            "INPUT HERE!!!": "330.67",
+            "Mean": "301.90333333333336",
+            "(xi-Mean)": "28.76666666666665",
+            "(xi-Mean)^2": "827.5211111111103",
+            "SD": "28.421527638980535",
+            "%CV": "9.41411521534946"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "273.84",
+            "Mean": "",
+            "(xi-Mean)": "-28.06333333333339",
+            "(xi-Mean)^2": "787.550677777781",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "301.2",
+            "Mean": "",
+            "(xi-Mean)": "-0.7033333333333758",
+            "(xi-Mean)^2": "0.4946777777778375",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "3.0",
+            "INPUT HERE!!!": "328.73",
+            "Mean": "333.22333333333336",
+            "(xi-Mean)": "-4.493333333333339",
+            "(xi-Mean)^2": "20.1900444444445",
+            "SD": "10.007543821204743",
+            "%CV": "3.0032542202541066"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "344.69",
+            "Mean": "",
+            "(xi-Mean)": "11.46666666666664",
+            "(xi-Mean)^2": "131.48444444444382",
+            "SD": "",
+            "%CV": ""
+          }
+        ]
+      },
+      {
+        "name": "Color",
+        "shape": [
+          31,
+          47
+        ],
+        "columns": [
+          {
+            "name": "L",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 1",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 29,
+            "sample": [
+              "INPUT HERE!!!",
+              "62.48",
+              "62.11",
+              "61.66",
+              "62.04"
+            ]
+          },
+          {
+            "name": "Unnamed: 2",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Mean",
+              "62.083333333333336",
+              "61.873333333333335",
+              "61.62",
+              "61.29"
+            ]
+          },
+          {
+            "name": "Unnamed: 3",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 28,
+            "sample": [
+              "(xi-Mean)",
+              "0.39666666666666117",
+              "0.02666666666666373",
+              "-0.4233333333333391",
+              "0.1666666666666643"
+            ]
+          },
+          {
+            "name": "Unnamed: 4",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 28,
+            "sample": [
+              "(xi-Mean)^2",
+              "0.1573444444444401",
+              "0.0007111111111109545",
+              "0.179211111111116",
+              "0.02777777777777699"
+            ]
+          },
+          {
+            "name": "Unnamed: 5",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "SD",
+              "0.41064989143226804",
+              "0.20108041509140936",
+              "0.04582575694955703",
+              "0.2959729717389755"
+            ]
+          },
+          {
+            "name": "Unnamed: 6",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "%CV",
+              "0.6614494895553311",
+              "0.3249872024966211",
+              "0.07436831702297474",
+              "0.48290581128891424"
+            ]
+          },
+          {
+            "name": "Unnamed: 7",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "a*",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 9",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 23,
+            "sample": [
+              "INPUT HERE!!!",
+              "3.69",
+              "3.8",
+              "3.86",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 10",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Mean",
+              "3.783333333333333",
+              "4.06",
+              "3.8633333333333333",
+              "3.683333333333333"
+            ]
+          },
+          {
+            "name": "Unnamed: 11",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 23,
+            "sample": [
+              "(xi-Mean)",
+              "-0.09333333333333327",
+              "0.016666666666666607",
+              "0.07666666666666666",
+              "-0.05999999999999961"
+            ]
+          },
+          {
+            "name": "Unnamed: 12",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 23,
+            "sample": [
+              "(xi-Mean)^2",
+              "0.008711111111111098",
+              "0.0002777777777777758",
+              "0.005877777777777777",
+              "0.003599999999999953"
+            ]
+          },
+          {
+            "name": "Unnamed: 13",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "SD",
+              "0.08621678104251704",
+              "0.14933184523068097",
+              "0.005773502691896391",
+              "0.14153915830374755"
+            ]
+          },
+          {
+            "name": "Unnamed: 14",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "%CV",
+              "2.278857648700891",
+              "3.6781242667655416",
+              "0.1494435554416667",
+              "3.84269208064473"
+            ]
+          },
+          {
+            "name": "Unnamed: 15",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "b*",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 17",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 27,
+            "sample": [
+              "INPUT HERE!!!",
+              "17.21",
+              "17.49",
+              "17.28",
+              "17.6"
+            ]
+          },
+          {
+            "name": "Unnamed: 18",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Mean",
+              "17.326666666666668",
+              "17.636666666666667",
+              "17.23",
+              "18.566666666666666"
+            ]
+          },
+          {
+            "name": "Unnamed: 19",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 23,
+            "sample": [
+              "(xi-Mean)",
+              "-0.11666666666666714",
+              "0.16333333333333044",
+              "-0.046666666666666856",
+              "-0.03666666666666529"
+            ]
+          },
+          {
+            "name": "Unnamed: 20",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 23,
+            "sample": [
+              "(xi-Mean)^2",
+              "0.013611111111111221",
+              "0.026677777777776832",
+              "0.0021777777777777954",
+              "0.0013444444444443437"
+            ]
+          },
+          {
+            "name": "Unnamed: 21",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "SD",
+              "0.14571661996262789",
+              "0.055075705472860274",
+              "0.01732050807568943",
+              "0.2532455988429677"
+            ]
+          },
+          {
+            "name": "Unnamed: 22",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "%CV",
+              "0.8409962675796144",
+              "0.3122795623106801",
+              "0.10052529353273029",
+              "1.3639798860483001"
+            ]
+          },
+          {
+            "name": "Unnamed: 23",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "C",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 25",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "INPUT HERE!!!"
+            ]
+          },
+          {
+            "name": "Unnamed: 26",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "Mean",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 27",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 28",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)^2",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 29",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "SD",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 30",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "%CV"
+            ]
+          },
+          {
+            "name": "Unnamed: 31",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "H",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 33",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "INPUT HERE!!!"
+            ]
+          },
+          {
+            "name": "Unnamed: 34",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "Mean",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 35",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 36",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)^2",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 37",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "SD",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 38",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "%CV"
+            ]
+          },
+          {
+            "name": "Unnamed: 39",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "Delta_E",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 10,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 41",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "INPUT HERE!!!"
+            ]
+          },
+          {
+            "name": "Unnamed: 42",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "Mean",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 43",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 44",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)^2",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 45",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "SD",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 46",
+            "dtype": "str",
+            "non_null": 1,
+            "missing": 30,
+            "unique": 1,
+            "sample": [
+              "%CV"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "L": "Treatment",
+            "Unnamed: 1": "INPUT HERE!!!",
+            "Unnamed: 2": "Mean",
+            "Unnamed: 3": "(xi-Mean)",
+            "Unnamed: 4": "(xi-Mean)^2",
+            "Unnamed: 5": "SD",
+            "Unnamed: 6": "%CV",
+            "Unnamed: 7": "",
+            "a*": "Treatment",
+            "Unnamed: 9": "INPUT HERE!!!",
+            "Unnamed: 10": "Mean",
+            "Unnamed: 11": "(xi-Mean)",
+            "Unnamed: 12": "(xi-Mean)^2",
+            "Unnamed: 13": "SD",
+            "Unnamed: 14": "%CV",
+            "Unnamed: 15": "",
+            "b*": "Treatment",
+            "Unnamed: 17": "INPUT HERE!!!",
+            "Unnamed: 18": "Mean",
+            "Unnamed: 19": "(xi-Mean)",
+            "Unnamed: 20": "(xi-Mean)^2",
+            "Unnamed: 21": "SD",
+            "Unnamed: 22": "%CV",
+            "Unnamed: 23": "",
+            "C": "Treatment",
+            "Unnamed: 25": "INPUT HERE!!!",
+            "Unnamed: 26": "Mean",
+            "Unnamed: 27": "(xi-Mean)",
+            "Unnamed: 28": "(xi-Mean)^2",
+            "Unnamed: 29": "SD",
+            "Unnamed: 30": "%CV",
+            "Unnamed: 31": "",
+            "H": "Treatment",
+            "Unnamed: 33": "INPUT HERE!!!",
+            "Unnamed: 34": "Mean",
+            "Unnamed: 35": "(xi-Mean)",
+            "Unnamed: 36": "(xi-Mean)^2",
+            "Unnamed: 37": "SD",
+            "Unnamed: 38": "%CV",
+            "Unnamed: 39": "",
+            "Delta_E": "Treatment",
+            "Unnamed: 41": "INPUT HERE!!!",
+            "Unnamed: 42": "Mean",
+            "Unnamed: 43": "(xi-Mean)",
+            "Unnamed: 44": "(xi-Mean)^2",
+            "Unnamed: 45": "SD",
+            "Unnamed: 46": "%CV"
+          },
+          {
+            "L": "1",
+            "Unnamed: 1": "62.48",
+            "Unnamed: 2": "62.083333333333336",
+            "Unnamed: 3": "0.39666666666666117",
+            "Unnamed: 4": "0.1573444444444401",
+            "Unnamed: 5": "0.41064989143226804",
+            "Unnamed: 6": "0.6614494895553311",
+            "Unnamed: 7": "",
+            "a*": "1",
+            "Unnamed: 9": "3.69",
+            "Unnamed: 10": "3.783333333333333",
+            "Unnamed: 11": "-0.09333333333333327",
+            "Unnamed: 12": "0.008711111111111098",
+            "Unnamed: 13": "0.08621678104251704",
+            "Unnamed: 14": "2.278857648700891",
+            "Unnamed: 15": "",
+            "b*": "1",
+            "Unnamed: 17": "17.21",
+            "Unnamed: 18": "17.326666666666668",
+            "Unnamed: 19": "-0.11666666666666714",
+            "Unnamed: 20": "0.013611111111111221",
+            "Unnamed: 21": "0.14571661996262789",
+            "Unnamed: 22": "0.8409962675796144",
+            "Unnamed: 23": "",
+            "C": "1",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "0",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "0",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "1",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "0",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "0",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "1",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "0",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "0",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "",
+            "Unnamed: 1": "62.11",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "0.02666666666666373",
+            "Unnamed: 4": "0.0007111111111109545",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "a*": "",
+            "Unnamed: 9": "3.8",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "0.016666666666666607",
+            "Unnamed: 12": "0.0002777777777777758",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "b*": "",
+            "Unnamed: 17": "17.49",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0.16333333333333044",
+            "Unnamed: 20": "0.026677777777776832",
+            "Unnamed: 21": "",
+            "Unnamed: 22": "",
+            "Unnamed: 23": "",
+            "C": "",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "",
+            "Unnamed: 1": "61.66",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "-0.4233333333333391",
+            "Unnamed: 4": "0.179211111111116",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "a*": "",
+            "Unnamed: 9": "3.86",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "0.07666666666666666",
+            "Unnamed: 12": "0.005877777777777777",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "b*": "",
+            "Unnamed: 17": "17.28",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "-0.046666666666666856",
+            "Unnamed: 20": "0.0021777777777777954",
+            "Unnamed: 21": "",
+            "Unnamed: 22": "",
+            "Unnamed: 23": "",
+            "C": "",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "2",
+            "Unnamed: 1": "62.04",
+            "Unnamed: 2": "61.873333333333335",
+            "Unnamed: 3": "0.1666666666666643",
+            "Unnamed: 4": "0.02777777777777699",
+            "Unnamed: 5": "0.20108041509140936",
+            "Unnamed: 6": "0.3249872024966211",
+            "Unnamed: 7": "",
+            "a*": "2",
+            "Unnamed: 9": "4",
+            "Unnamed: 10": "4.06",
+            "Unnamed: 11": "-0.05999999999999961",
+            "Unnamed: 12": "0.003599999999999953",
+            "Unnamed: 13": "0.14933184523068097",
+            "Unnamed: 14": "3.6781242667655416",
+            "Unnamed: 15": "",
+            "b*": "2",
+            "Unnamed: 17": "17.6",
+            "Unnamed: 18": "17.636666666666667",
+            "Unnamed: 19": "-0.03666666666666529",
+            "Unnamed: 20": "0.0013444444444443437",
+            "Unnamed: 21": "0.055075705472860274",
+            "Unnamed: 22": "0.3122795623106801",
+            "Unnamed: 23": "",
+            "C": "2",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "0",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "0",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "2",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "0",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "0",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "2",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "0",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "0",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "",
+            "Unnamed: 1": "61.93",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "0.05666666666666487",
+            "Unnamed: 4": "0.003211111111110907",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "a*": "",
+            "Unnamed: 9": "3.95",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "-0.10999999999999943",
+            "Unnamed: 12": "0.012099999999999875",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "b*": "",
+            "Unnamed: 17": "17.61",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "-0.026666666666667282",
+            "Unnamed: 20": "0.000711111111111144",
+            "Unnamed: 21": "",
+            "Unnamed: 22": "",
+            "Unnamed: 23": "",
+            "C": "",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "",
+            "Unnamed: 1": "61.65",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "-0.22333333333333627",
+            "Unnamed: 4": "0.04987777777777909",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "a*": "",
+            "Unnamed: 9": "4.23",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "0.17000000000000082",
+            "Unnamed: 12": "0.028900000000000276",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "b*": "",
+            "Unnamed: 17": "17.7",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0.06333333333333258",
+            "Unnamed: 20": "0.004011111111111015",
+            "Unnamed: 21": "",
+            "Unnamed: 22": "",
+            "Unnamed: 23": "",
+            "C": "",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "",
+            "Unnamed: 46": ""
+          },
+          {
+            "L": "3",
+            "Unnamed: 1": "61.66",
+            "Unnamed: 2": "61.62",
+            "Unnamed: 3": "0.03999999999999915",
+            "Unnamed: 4": "0.0015999999999999318",
+            "Unnamed: 5": "0.04582575694955703",
+            "Unnamed: 6": "0.07436831702297474",
+            "Unnamed: 7": "",
+            "a*": "3",
+            "Unnamed: 9": "3.86",
+            "Unnamed: 10": "3.8633333333333333",
+            "Unnamed: 11": "-0.0033333333333334103",
+            "Unnamed: 12": "1.1111111111111625e-05",
+            "Unnamed: 13": "0.005773502691896391",
+            "Unnamed: 14": "0.1494435554416667",
+            "Unnamed: 15": "",
+            "b*": "3",
+            "Unnamed: 17": "17.22",
+            "Unnamed: 18": "17.23",
+            "Unnamed: 19": "-0.010000000000001563",
+            "Unnamed: 20": "0.00010000000000003127",
+            "Unnamed: 21": "0.01732050807568943",
+            "Unnamed: 22": "0.10052529353273029",
+            "Unnamed: 23": "",
+            "C": "3",
+            "Unnamed: 25": "",
+            "Unnamed: 26": "0",
+            "Unnamed: 27": "0",
+            "Unnamed: 28": "0",
+            "Unnamed: 29": "0",
+            "Unnamed: 30": "",
+            "Unnamed: 31": "",
+            "H": "3",
+            "Unnamed: 33": "",
+            "Unnamed: 34": "0",
+            "Unnamed: 35": "0",
+            "Unnamed: 36": "0",
+            "Unnamed: 37": "0",
+            "Unnamed: 38": "",
+            "Unnamed: 39": "",
+            "Delta_E": "3",
+            "Unnamed: 41": "",
+            "Unnamed: 42": "0",
+            "Unnamed: 43": "0",
+            "Unnamed: 44": "0",
+            "Unnamed: 45": "0",
+            "Unnamed: 46": ""
+          }
+        ]
+      },
+      {
+        "name": "Zone inihibition",
+        "shape": [
+          31,
+          23
+        ],
+        "columns": [
+          {
+            "name": "Staph",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 1",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 5,
+            "sample": [
+              "INPUT HERE!!!",
+              "6.5",
+              "6.5",
+              "6",
+              "6"
+            ]
+          },
+          {
+            "name": "Unnamed: 2",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 7,
+            "sample": [
+              "Mean",
+              "6.333333333333333",
+              "6.166666666666667",
+              "6.5",
+              "6.333333333333333"
+            ]
+          },
+          {
+            "name": "Unnamed: 3",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 6,
+            "sample": [
+              "(xi-Mean)",
+              "0.16666666666666696",
+              "0.16666666666666696",
+              "-0.33333333333333304",
+              "-0.16666666666666696"
+            ]
+          },
+          {
+            "name": "Unnamed: 4",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 4,
+            "sample": [
+              "(xi-Mean)^2",
+              "0.027777777777777877",
+              "0.027777777777777877",
+              "0.11111111111111091",
+              "0.027777777777777877"
+            ]
+          },
+          {
+            "name": "Unnamed: 5",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 3,
+            "sample": [
+              "SD",
+              "0.28867513459481287",
+              "0.28867513459481287",
+              "0",
+              "0.28867513459481287"
+            ]
+          },
+          {
+            "name": "Unnamed: 6",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 5,
+            "sample": [
+              "%CV",
+              "4.5580284409707295",
+              "4.681218398834803",
+              "0",
+              "4.5580284409707295"
+            ]
+          },
+          {
+            "name": "Unnamed: 7",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "e coli",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 9",
+            "dtype": "object",
+            "non_null": 30,
+            "missing": 1,
+            "unique": 3,
+            "sample": [
+              "INPUT HERE!!!",
+              "6.5",
+              "6",
+              "6.5",
+              "6"
+            ]
+          },
+          {
+            "name": "Unnamed: 10",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 6,
+            "sample": [
+              "Mean",
+              "4.166666666666667",
+              "6.333333333333333",
+              "6.166666666666667",
+              "6.333333333333333"
+            ]
+          },
+          {
+            "name": "Unnamed: 11",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 9,
+            "sample": [
+              "(xi-Mean)",
+              "2.333333333333333",
+              "-4.166666666666667",
+              "1.833333333333333",
+              "0.16666666666666696"
+            ]
+          },
+          {
+            "name": "Unnamed: 12",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 7,
+            "sample": [
+              "(xi-Mean)^2",
+              "5.444444444444443",
+              "17.361111111111114",
+              "3.36111111111111",
+              "0.027777777777777877"
+            ]
+          },
+          {
+            "name": "Unnamed: 13",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 4,
+            "sample": [
+              "SD",
+              "3.6170890690351176",
+              "0.28867513459481287",
+              "0.28867513459481287",
+              "0.28867513459481287"
+            ]
+          },
+          {
+            "name": "Unnamed: 14",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 5,
+            "sample": [
+              "%CV",
+              "86.81013765684281",
+              "4.5580284409707295",
+              "4.681218398834803",
+              "4.5580284409707295"
+            ]
+          },
+          {
+            "name": "Unnamed: 15",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "salmonella",
+            "dtype": "object",
+            "non_null": 13,
+            "missing": 18,
+            "unique": 11,
+            "sample": [
+              "Treatment",
+              "1",
+              "2",
+              "3",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 17",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 2,
+            "sample": [
+              "INPUT HERE!!!",
+              "6",
+              "6",
+              "6",
+              "6"
+            ]
+          },
+          {
+            "name": "Unnamed: 18",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "Mean",
+              "6",
+              "6",
+              "6",
+              "6"
+            ]
+          },
+          {
+            "name": "Unnamed: 19",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 20",
+            "dtype": "object",
+            "non_null": 28,
+            "missing": 3,
+            "unique": 2,
+            "sample": [
+              "(xi-Mean)^2",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 21",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "SD",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 22",
+            "dtype": "object",
+            "non_null": 10,
+            "missing": 21,
+            "unique": 2,
+            "sample": [
+              "%CV",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "Staph": "Treatment",
+            "Unnamed: 1": "INPUT HERE!!!",
+            "Unnamed: 2": "Mean",
+            "Unnamed: 3": "(xi-Mean)",
+            "Unnamed: 4": "(xi-Mean)^2",
+            "Unnamed: 5": "SD",
+            "Unnamed: 6": "%CV",
+            "Unnamed: 7": "",
+            "e coli": "Treatment",
+            "Unnamed: 9": "INPUT HERE!!!",
+            "Unnamed: 10": "Mean",
+            "Unnamed: 11": "(xi-Mean)",
+            "Unnamed: 12": "(xi-Mean)^2",
+            "Unnamed: 13": "SD",
+            "Unnamed: 14": "%CV",
+            "Unnamed: 15": "",
+            "salmonella": "Treatment",
+            "Unnamed: 17": "INPUT HERE!!!",
+            "Unnamed: 18": "Mean",
+            "Unnamed: 19": "(xi-Mean)",
+            "Unnamed: 20": "(xi-Mean)^2",
+            "Unnamed: 21": "SD",
+            "Unnamed: 22": "%CV"
+          },
+          {
+            "Staph": "1",
+            "Unnamed: 1": "6.5",
+            "Unnamed: 2": "6.333333333333333",
+            "Unnamed: 3": "0.16666666666666696",
+            "Unnamed: 4": "0.027777777777777877",
+            "Unnamed: 5": "0.28867513459481287",
+            "Unnamed: 6": "4.5580284409707295",
+            "Unnamed: 7": "",
+            "e coli": "1",
+            "Unnamed: 9": "6.5",
+            "Unnamed: 10": "4.166666666666667",
+            "Unnamed: 11": "2.333333333333333",
+            "Unnamed: 12": "5.444444444444443",
+            "Unnamed: 13": "3.6170890690351176",
+            "Unnamed: 14": "86.81013765684281",
+            "Unnamed: 15": "",
+            "salmonella": "1",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "6",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "0",
+            "Unnamed: 22": "0"
+          },
+          {
+            "Staph": "",
+            "Unnamed: 1": "6.5",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "0.16666666666666696",
+            "Unnamed: 4": "0.027777777777777877",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "e coli": "",
+            "Unnamed: 9": "",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "-4.166666666666667",
+            "Unnamed: 12": "17.361111111111114",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "salmonella": "",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "",
+            "Unnamed: 22": ""
+          },
+          {
+            "Staph": "",
+            "Unnamed: 1": "6",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "-0.33333333333333304",
+            "Unnamed: 4": "0.11111111111111091",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "e coli": "",
+            "Unnamed: 9": "6",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "1.833333333333333",
+            "Unnamed: 12": "3.36111111111111",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "salmonella": "",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "",
+            "Unnamed: 22": ""
+          },
+          {
+            "Staph": "2",
+            "Unnamed: 1": "6",
+            "Unnamed: 2": "6.166666666666667",
+            "Unnamed: 3": "-0.16666666666666696",
+            "Unnamed: 4": "0.027777777777777877",
+            "Unnamed: 5": "0.28867513459481287",
+            "Unnamed: 6": "4.681218398834803",
+            "Unnamed: 7": "",
+            "e coli": "2",
+            "Unnamed: 9": "6.5",
+            "Unnamed: 10": "6.333333333333333",
+            "Unnamed: 11": "0.16666666666666696",
+            "Unnamed: 12": "0.027777777777777877",
+            "Unnamed: 13": "0.28867513459481287",
+            "Unnamed: 14": "4.5580284409707295",
+            "Unnamed: 15": "",
+            "salmonella": "2",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "6",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "0",
+            "Unnamed: 22": "0"
+          },
+          {
+            "Staph": "",
+            "Unnamed: 1": "6.5",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "0.33333333333333304",
+            "Unnamed: 4": "0.11111111111111091",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "e coli": "",
+            "Unnamed: 9": "6",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "-0.33333333333333304",
+            "Unnamed: 12": "0.11111111111111091",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "salmonella": "",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "",
+            "Unnamed: 22": ""
+          },
+          {
+            "Staph": "",
+            "Unnamed: 1": "6",
+            "Unnamed: 2": "",
+            "Unnamed: 3": "-0.16666666666666696",
+            "Unnamed: 4": "0.027777777777777877",
+            "Unnamed: 5": "",
+            "Unnamed: 6": "",
+            "Unnamed: 7": "",
+            "e coli": "",
+            "Unnamed: 9": "6.5",
+            "Unnamed: 10": "",
+            "Unnamed: 11": "0.16666666666666696",
+            "Unnamed: 12": "0.027777777777777877",
+            "Unnamed: 13": "",
+            "Unnamed: 14": "",
+            "Unnamed: 15": "",
+            "salmonella": "",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "",
+            "Unnamed: 22": ""
+          },
+          {
+            "Staph": "3",
+            "Unnamed: 1": "6.5",
+            "Unnamed: 2": "6.5",
+            "Unnamed: 3": "0",
+            "Unnamed: 4": "0",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "",
+            "e coli": "3",
+            "Unnamed: 9": "6.5",
+            "Unnamed: 10": "6.166666666666667",
+            "Unnamed: 11": "0.33333333333333304",
+            "Unnamed: 12": "0.11111111111111091",
+            "Unnamed: 13": "0.28867513459481287",
+            "Unnamed: 14": "4.681218398834803",
+            "Unnamed: 15": "",
+            "salmonella": "3",
+            "Unnamed: 17": "6",
+            "Unnamed: 18": "6",
+            "Unnamed: 19": "0",
+            "Unnamed: 20": "0",
+            "Unnamed: 21": "0",
+            "Unnamed: 22": "0"
+          }
+        ]
+      },
+      {
+        "name": "Aw",
+        "shape": [
+          30,
+          7
+        ],
+        "columns": [
+          {
+            "name": "Treatment",
+            "dtype": "float64",
+            "non_null": 12,
+            "missing": 18,
+            "unique": 10,
+            "sample": [
+              "1.0",
+              "2.0",
+              "3.0",
+              "4.0",
+              "5.0"
+            ]
+          },
+          {
+            "name": "INPUT HERE!!!",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 0,
+            "unique": 22,
+            "sample": [
+              "0.628",
+              "0.635",
+              "0.634",
+              "0.631",
+              "0.628"
+            ]
+          },
+          {
+            "name": "Mean",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "0.6323333333333333",
+              "0.629",
+              "0.607",
+              "0.62",
+              "0.5786666666666666"
+            ]
+          },
+          {
+            "name": "(xi-Mean)",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 21,
+            "sample": [
+              "-0.0043333333333333",
+              "0.002666666666666706",
+              "0.0016666666666667052",
+              "0.0020000000000000018",
+              "-0.0010000000000000009"
+            ]
+          },
+          {
+            "name": "(xi-Mean)^2",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 21,
+            "sample": [
+              "1.877777777777749e-05",
+              "7.111111111111321e-06",
+              "2.7777777777779062e-06",
+              "4.0000000000000074e-06",
+              "1.0000000000000019e-06"
+            ]
+          },
+          {
+            "name": "SD",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "0.0037859388972001857",
+              "0.0017320508075688791",
+              "0.007211102550927985",
+              "0.009539392014169465",
+              "0.017502380790433394"
+            ]
+          },
+          {
+            "name": "%CV",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "0.5987251814233293",
+              "0.27536578816675344",
+              "1.1879905355729794",
+              "1.5386116151886235",
+              "3.024604975305311"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "Treatment": "1.0",
+            "INPUT HERE!!!": "0.628",
+            "Mean": "0.6323333333333333",
+            "(xi-Mean)": "-0.0043333333333333",
+            "(xi-Mean)^2": "1.877777777777749e-05",
+            "SD": "0.0037859388972001857",
+            "%CV": "0.5987251814233293"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "0.635",
+            "Mean": "",
+            "(xi-Mean)": "0.002666666666666706",
+            "(xi-Mean)^2": "7.111111111111321e-06",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "0.634",
+            "Mean": "",
+            "(xi-Mean)": "0.0016666666666667052",
+            "(xi-Mean)^2": "2.7777777777779062e-06",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "2.0",
+            "INPUT HERE!!!": "0.631",
+            "Mean": "0.629",
+            "(xi-Mean)": "0.0020000000000000018",
+            "(xi-Mean)^2": "4.0000000000000074e-06",
+            "SD": "0.0017320508075688791",
+            "%CV": "0.27536578816675344"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "0.628",
+            "Mean": "",
+            "(xi-Mean)": "-0.0010000000000000009",
+            "(xi-Mean)^2": "1.0000000000000019e-06",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "0.628",
+            "Mean": "",
+            "(xi-Mean)": "-0.0010000000000000009",
+            "(xi-Mean)^2": "1.0000000000000019e-06",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "3.0",
+            "INPUT HERE!!!": "0.599",
+            "Mean": "0.607",
+            "(xi-Mean)": "-0.008000000000000007",
+            "(xi-Mean)^2": "6.400000000000012e-05",
+            "SD": "0.007211102550927985",
+            "%CV": "1.1879905355729794"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "0.609",
+            "Mean": "",
+            "(xi-Mean)": "0.0020000000000000018",
+            "(xi-Mean)^2": "4.0000000000000074e-06",
+            "SD": "",
+            "%CV": ""
+          }
+        ]
+      },
+      {
+        "name": "%MC",
+        "shape": [
+          30,
+          7
+        ],
+        "columns": [
+          {
+            "name": "Treatment",
+            "dtype": "float64",
+            "non_null": 12,
+            "missing": 18,
+            "unique": 10,
+            "sample": [
+              "1.0",
+              "2.0",
+              "3.0",
+              "4.0",
+              "5.0"
+            ]
+          },
+          {
+            "name": "INPUT HERE!!!",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 0,
+            "unique": 29,
+            "sample": [
+              "10.38",
+              "10.47",
+              "10.36",
+              "9.91",
+              "9.69"
+            ]
+          },
+          {
+            "name": "Mean",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "10.403333333333334",
+              "9.9",
+              "9.756666666666666",
+              "10.133333333333333",
+              "8.930000000000001"
+            ]
+          },
+          {
+            "name": "(xi-Mean)",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 22,
+            "sample": [
+              "-0.023333333333333428",
+              "0.06666666666666643",
+              "-0.04333333333333478",
+              "0.009999999999999787",
+              "-0.21000000000000085"
+            ]
+          },
+          {
+            "name": "(xi-Mean)^2",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 21,
+            "sample": [
+              "0.0005444444444444488",
+              "0.004444444444444413",
+              "0.001877777777777903",
+              "9.999999999999574e-05",
+              "0.04410000000000036"
+            ]
+          },
+          {
+            "name": "SD",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "0.058594652770823576",
+              "0.205182845286832",
+              "0.06658328118479424",
+              "0.23755701070129115",
+              "0.08660254037844407"
+            ]
+          },
+          {
+            "name": "%CV",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "0.5632296004885317",
+              "2.072553992796283",
+              "0.6824388232127869",
+              "2.344312605604847",
+              "0.9697932853129233"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "Treatment": "1.0",
+            "INPUT HERE!!!": "10.38",
+            "Mean": "10.403333333333334",
+            "(xi-Mean)": "-0.023333333333333428",
+            "(xi-Mean)^2": "0.0005444444444444488",
+            "SD": "0.058594652770823576",
+            "%CV": "0.5632296004885317"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "10.47",
+            "Mean": "",
+            "(xi-Mean)": "0.06666666666666643",
+            "(xi-Mean)^2": "0.004444444444444413",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "10.36",
+            "Mean": "",
+            "(xi-Mean)": "-0.04333333333333478",
+            "(xi-Mean)^2": "0.001877777777777903",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "2.0",
+            "INPUT HERE!!!": "9.91",
+            "Mean": "9.9",
+            "(xi-Mean)": "0.009999999999999787",
+            "(xi-Mean)^2": "9.999999999999574e-05",
+            "SD": "0.205182845286832",
+            "%CV": "2.072553992796283"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "9.69",
+            "Mean": "",
+            "(xi-Mean)": "-0.21000000000000085",
+            "(xi-Mean)^2": "0.04410000000000036",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "10.1",
+            "Mean": "",
+            "(xi-Mean)": "0.1999999999999993",
+            "(xi-Mean)^2": "0.039999999999999716",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "3.0",
+            "INPUT HERE!!!": "9.83",
+            "Mean": "9.756666666666666",
+            "(xi-Mean)": "0.07333333333333414",
+            "(xi-Mean)^2": "0.005377777777777896",
+            "SD": "0.06658328118479424",
+            "%CV": "0.6824388232127869"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "9.74",
+            "Mean": "",
+            "(xi-Mean)": "-0.01666666666666572",
+            "(xi-Mean)^2": "0.0002777777777777462",
+            "SD": "",
+            "%CV": ""
+          }
+        ]
+      },
+      {
+        "name": "WSI",
+        "shape": [
+          30,
+          7
+        ],
+        "columns": [
+          {
+            "name": "Treatment",
+            "dtype": "float64",
+            "non_null": 12,
+            "missing": 18,
+            "unique": 10,
+            "sample": [
+              "1.0",
+              "2.0",
+              "3.0",
+              "4.0",
+              "5.0"
+            ]
+          },
+          {
+            "name": "INPUT HERE!!!",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 0,
+            "unique": 30,
+            "sample": [
+              "15.8409",
+              "19.2277",
+              "18.5544",
+              "11.4008",
+              "10.1819"
+            ]
+          },
+          {
+            "name": "Mean",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "17.874333333333333",
+              "10.5237",
+              "10.633033333333332",
+              "9.515433333333334",
+              "9.249866666666668"
+            ]
+          },
+          {
+            "name": "(xi-Mean)",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 27,
+            "sample": [
+              "-2.033433333333333",
+              "1.3533666666666662",
+              "0.6800666666666686",
+              "0.8771000000000004",
+              "-0.3417999999999992"
+            ]
+          },
+          {
+            "name": "(xi-Mean)^2",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 3,
+            "unique": 27,
+            "sample": [
+              "4.13485112111111",
+              "1.831601334444443",
+              "0.46249067111111375",
+              "0.7693044100000007",
+              "0.11682723999999946"
+            ]
+          },
+          {
+            "name": "SD",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "1.7928947440754388",
+              "0.7657276735236881",
+              "0.21078088939306946",
+              "0.0891632398095383",
+              "0.08606284525469408"
+            ]
+          },
+          {
+            "name": "%CV",
+            "dtype": "float64",
+            "non_null": 9,
+            "missing": 21,
+            "unique": 9,
+            "sample": [
+              "10.030554486370246",
+              "7.276221039403328",
+              "1.9823213450511408",
+              "0.9370381430469619",
+              "0.930422549384792"
+            ]
+          }
+        ],
+        "head": [
+          {
+            "Treatment": "1.0",
+            "INPUT HERE!!!": "15.8409",
+            "Mean": "17.874333333333333",
+            "(xi-Mean)": "-2.033433333333333",
+            "(xi-Mean)^2": "4.13485112111111",
+            "SD": "1.7928947440754388",
+            "%CV": "10.030554486370246"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "19.2277",
+            "Mean": "",
+            "(xi-Mean)": "1.3533666666666662",
+            "(xi-Mean)^2": "1.831601334444443",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "18.5544",
+            "Mean": "",
+            "(xi-Mean)": "0.6800666666666686",
+            "(xi-Mean)^2": "0.46249067111111375",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "2.0",
+            "INPUT HERE!!!": "11.4008",
+            "Mean": "10.5237",
+            "(xi-Mean)": "0.8771000000000004",
+            "(xi-Mean)^2": "0.7693044100000007",
+            "SD": "0.7657276735236881",
+            "%CV": "7.276221039403328"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "10.1819",
+            "Mean": "",
+            "(xi-Mean)": "-0.3417999999999992",
+            "(xi-Mean)^2": "0.11682723999999946",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "9.9884",
+            "Mean": "",
+            "(xi-Mean)": "-0.5352999999999994",
+            "(xi-Mean)^2": "0.2865460899999994",
+            "SD": "",
+            "%CV": ""
+          },
+          {
+            "Treatment": "3.0",
+            "INPUT HERE!!!": "10.7592",
+            "Mean": "10.633033333333332",
+            "(xi-Mean)": "0.1261666666666681",
+            "(xi-Mean)^2": "0.01591802777777814",
+            "SD": "0.21078088939306946",
+            "%CV": "1.9823213450511408"
+          },
+          {
+            "Treatment": "",
+            "INPUT HERE!!!": "10.7502",
+            "Mean": "",
+            "(xi-Mean)": "0.11716666666666775",
+            "(xi-Mean)^2": "0.013728027777778032",
+            "SD": "",
+            "%CV": ""
+          }
+        ]
+      },
+      {
+        "name": "DO NOT INPUT ANYTHING HERE!!!",
+        "shape": [
+          31,
+          13
+        ],
+        "columns": [
+          {
+            "name": "Sample",
+            "dtype": "float64",
+            "non_null": 27,
+            "missing": 4,
+            "unique": 9,
+            "sample": [
+              "1.0",
+              "1.0",
+              "1.0",
+              "2.0",
+              "2.0"
+            ]
+          },
+          {
+            "name": "WAC",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 1,
+            "unique": 27,
+            "sample": [
+              "285.06",
+              "296.55",
+              "307.57",
+              "330.67",
+              "273.84"
+            ]
+          },
+          {
+            "name": "Color",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 29,
+            "sample": [
+              "L",
+              "62.48",
+              "62.11",
+              "61.66",
+              "62.04"
+            ]
+          },
+          {
+            "name": "Unnamed: 3",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 23,
+            "sample": [
+              "a*",
+              "3.69",
+              "3.8",
+              "3.86",
+              "4"
+            ]
+          },
+          {
+            "name": "Unnamed: 4",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 28,
+            "sample": [
+              "b*",
+              "17.21",
+              "17.49",
+              "17.28",
+              "17.6"
+            ]
+          },
+          {
+            "name": "Unnamed: 5",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 2,
+            "sample": [
+              "C",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 6",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 2,
+            "sample": [
+              "H",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Unnamed: 7",
+            "dtype": "object",
+            "non_null": 31,
+            "missing": 0,
+            "unique": 2,
+            "sample": [
+              "Delta_E",
+              "0",
+              "0",
+              "0",
+              "0"
+            ]
+          },
+          {
+            "name": "Aw",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 1,
+            "unique": 22,
+            "sample": [
+              "0.628",
+              "0.635",
+              "0.634",
+              "0.631",
+              "0.628"
+            ]
+          },
+          {
+            "name": "%MC",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 1,
+            "unique": 29,
+            "sample": [
+              "10.38",
+              "10.47",
+              "10.36",
+              "9.91",
+              "9.69"
+            ]
+          },
+          {
+            "name": "WSI",
+            "dtype": "float64",
+            "non_null": 30,
+            "missing": 1,
+            "unique": 30,
+            "sample": [
+              "15.8409",
+              "19.2277",
+              "18.5544",
+              "11.4008",
+              "10.1819"
+            ]
+          },
+          {
+            "name": "pH",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          },
+          {
+            "name": "TSS",
+            "dtype": "float64",
+            "non_null": 0,
+            "missing": 31,
+            "unique": 0,
+            "sample": []
+          }
+        ],
+        "head": [
+          {
+            "Sample": "",
+            "WAC": "",
+            "Color": "L",
+            "Unnamed: 3": "a*",
+            "Unnamed: 4": "b*",
+            "Unnamed: 5": "C",
+            "Unnamed: 6": "H",
+            "Unnamed: 7": "Delta_E",
+            "Aw": "",
+            "%MC": "",
+            "WSI": "",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "1.0",
+            "WAC": "285.06",
+            "Color": "62.48",
+            "Unnamed: 3": "3.69",
+            "Unnamed: 4": "17.21",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.628",
+            "%MC": "10.38",
+            "WSI": "15.8409",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "1.0",
+            "WAC": "296.55",
+            "Color": "62.11",
+            "Unnamed: 3": "3.8",
+            "Unnamed: 4": "17.49",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.635",
+            "%MC": "10.47",
+            "WSI": "19.2277",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "1.0",
+            "WAC": "307.57",
+            "Color": "61.66",
+            "Unnamed: 3": "3.86",
+            "Unnamed: 4": "17.28",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.634",
+            "%MC": "10.36",
+            "WSI": "18.5544",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "2.0",
+            "WAC": "330.67",
+            "Color": "62.04",
+            "Unnamed: 3": "4",
+            "Unnamed: 4": "17.6",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.631",
+            "%MC": "9.91",
+            "WSI": "11.4008",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "2.0",
+            "WAC": "273.84",
+            "Color": "61.93",
+            "Unnamed: 3": "3.95",
+            "Unnamed: 4": "17.61",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.628",
+            "%MC": "9.69",
+            "WSI": "10.1819",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "2.0",
+            "WAC": "301.2",
+            "Color": "61.65",
+            "Unnamed: 3": "4.23",
+            "Unnamed: 4": "17.7",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.628",
+            "%MC": "10.1",
+            "WSI": "9.9884",
+            "pH": "",
+            "TSS": ""
+          },
+          {
+            "Sample": "3.0",
+            "WAC": "328.73",
+            "Color": "61.66",
+            "Unnamed: 3": "3.86",
+            "Unnamed: 4": "17.22",
+            "Unnamed: 5": "0",
+            "Unnamed: 6": "0",
+            "Unnamed: 7": "0",
+            "Aw": "0.599",
+            "%MC": "9.83",
+            "WSI": "10.7592",
+            "pH": "",
+            "TSS": ""
+          }
+        ]
+      }
+    ]
+  }
+}

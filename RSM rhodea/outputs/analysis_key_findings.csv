@@ -1,0 +1,5 @@
+Finding
+Treatment 9 is analyzed as 70°C/8 h to complete the documented 3x3 factorial design.
+"Best observed treatment by composite desirability: Treatment 5 (60°C, 6 h), desirability=0.517."
+"Best RSM-screened condition: 57.33°C and 5.87 h, desirability=0.581."
+Two-way ANOVA and one-way antimicrobial ANOVA result tables were exported to the outputs folder.
